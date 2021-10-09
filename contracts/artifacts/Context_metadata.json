@@ -1,0 +1,44 @@
+{
+	"compiler": {
+		"version": "0.5.16+commit.9c3226ce"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"payable": false,
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Saturn.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Saturn.sol": {
+			"keccak256": "0xe0ec5ba68d8d28cd96f05b2ab10cf36da35d39b82ce5b4aa6689b9b176836a45",
+			"urls": [
+				"bzz-raw://e7bb64ce978659c361db8b804fc68a71bc8bc3bb13b79c19719a9cb53354f6e2",
+				"dweb:/ipfs/QmT86KG9YM5o91kWuUhz1GpFe9YCfR8qq5pT2CVh9EiZHF"
+			]
+		}
+	},
+	"version": 1
+}
